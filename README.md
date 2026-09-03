@@ -203,11 +203,25 @@ Currently learning:
 
 ```text
 
-* Understand the system.
-* Understand the weakness.
-* Test responsibly.
-* Learn from the result.
-* Build it better.
+             ┌───────────────────────────────┐
+             │     Understand the system.    │
+             └───────────────┬───────────────┘
+                             ↓
+             ┌───────────────────────────────┐
+             │    Understand the weakness.   │
+             └───────────────┬───────────────┘
+                             ↓
+             ┌───────────────────────────────┐
+             │       Test responsibly.       │
+             └───────────────┬───────────────┘
+                             ↓
+             ┌───────────────────────────────┐
+             │     Learn from the result.    │
+             └───────────────┬───────────────┘
+                             ↓
+             ┌───────────────────────────────┐
+             │        Build it better.       │
+             └───────────────────────────────┘
 
 ```
 
