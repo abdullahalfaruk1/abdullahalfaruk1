@@ -140,23 +140,6 @@ Currently learning:
 ---
 
 
-```md
-## 🚀 `CURRENT MISSION`
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=%5B+SYSTEM+ONLINE+%5D;Initializing+Faruk.exe...;%3E%3E+Software+Engineering+Student;%3E%3E+Python+%7C+Java+%7C+C+%7C+JavaScript;%3E%3E+Web+Development+%7C+Cybersecurity;%3E%3E+Learn+%7C+Build+%7C+Secure" alt="Faruk Mission" />
-</p>
-
-```python
-class Faruk:
-    role = "Software Engineering Student"
-    skills = ["Python", "Java", "C", "JavaScript"]
-
-    def mission(self):
-        return "Learn → Build → Improve → Secure"
-
----
-
 ## 📚 `CURRENTLY LEARNING`
 
 |  Area	        |    Focus                       |
