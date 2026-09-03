@@ -136,8 +136,6 @@ Currently learning:
 - 🌐 HTTP Status Codes
 - 🧪 Legal CTF & Security Labs
 
-
-
 ---
 
 ## 🚀 `CURRENT MISSION`
@@ -162,15 +160,15 @@ class Faruk:
 
 ## 📚 `CURRENTLY LEARNING`
 
-| Area         | Focus                         |
-| ------------ | ----------------------------- |
-| 🐍 Python    | Programming & problem solving |
-| 🧠 DSA       | Algorithms & data structures  |
-| 🌐 Web       | HTML, CSS, JavaScript         |
-| 🗄️ Database | MongoDB, SQL & DBMS        |               
-| 🛡️ Security | Web security fundamentals     |
-| ☕ Java       | OOP & software development    |
-
+|  Area	        |    Focus                       |
+| -----------   | -----------------------------  |
+| 🐍 Python	    |  Programming & Problem Solving |
+| 🧠 DSA	      | Algorithms & Data Structures   |
+| 🌐 Web	      | HTML, CSS & JavaScript         | 
+| 🗄️ Database	  | SQL, MongoDB & DBMS            |
+| 🛡️ Security	  | Web Security Fundamentals      |
+| ☕ Java	      | OOP & Software Development     |
+| 🌐 Networking	| Network Fundamentals           | 
 ---
 
 ## 🔥 `PROJECTS`
@@ -195,7 +193,7 @@ class Faruk:
 
 > A collection of Python programs created while improving programming and problem-solving skills.
 
-**Focus:** `Python` `Algorithms` `Problem Solving` `Development` `Hacking`
+**Focus:** `Python` `Algorithms` `Problem Solving` `Cybersecurity`
 
 ---
 
@@ -217,6 +215,17 @@ class Faruk:
 ```
 
 ---
+
+
+## 🛡️ `SECURITY MINDSET`
+
+```text
+
+* Understand the system.
+* Understand the weakness.
+* Test responsibly.
+* Learn from the result.
+* Build it better.
 
 ## 🧠 `DEVELOPER MINDSET`
 
