@@ -18,20 +18,20 @@
 ## 🧬 `whoami`
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                  SYSTEM PROFILE                      │
-├──────────────────────────────────────────────────────┤
-│ User       : Abdullah Al Faruk                       │
-│ Username   : abdullahalfaruk1                        │
-│ Role       : Software Engineering Student            │
-│ Focus      : Development + Cybersecurity &           |
-|              Ethical Hacking                         │
-│ Language   : Python,Java,Js,CSS,Html,C               |               
-│ Environment: Linux / Windows                         │
-│ Status     : Learning & Building                     |
-│ Security   : Burp Suite + Acunetix + PortSwigger     │     
-│ Labs       : PortSwigger Web Security Academy        │             
-└──────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────┐
+│                  SYSTEM PROFILE                       │
+├───────────────────────────────────────────────────────┤
+│ User        : Abdullah Al Faruk                       │
+│ Username    : abdullahalfaruk1                        │
+│ Role        : Software Engineering Student            │
+│ Focus       : Development + Cybersecurity &           |
+|               Ethical Hacking                         │
+│ Language    : Python,Java,Js,CSS,Html,C               |               
+│ Environment : Linux / Windows                         │
+│ Status      : Learning & Building                     |
+│ Security    : Burp Suite + Acunetix + PortSwigger     │     
+│ Labs        : PortSwigger Web Security Academy        │             
+└───────────────────────────────────────────────────────┘
 ```
 
 > 💻 Building skills one project at a time.
