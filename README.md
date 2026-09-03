@@ -54,7 +54,7 @@
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### 🛠️ Tools
@@ -114,7 +114,7 @@ class Faruk:
 | 🐍 Python    | Programming & problem solving |
 | 🧠 DSA       | Algorithms & data structures  |
 | 🌐 Web       | HTML, CSS, JavaScript         |
-| 🗄️ Database | SQL & DBMS                    |
+| 🗄️ Database | MongoDB, SQL & DBMS        |               
 | 🛡️ Security | Web security fundamentals     |
 | ☕ Java       | OOP & software development    |
 
@@ -148,27 +148,11 @@ class Faruk:
 
 ## 📊 `GITHUB ANALYTICS`
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abdullahalfaruk1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalfaruk1&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center"> <a href="https://github.com/abdullahalfaruk1"> <img src="https://github-readme-stats.vercel.app/api?username=abdullahalfaruk1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" /> </a> </p> <p align="center"> <a href="https://github.com/abdullahalfaruk1"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalfaruk1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" /> </a> </p>
 
 ---
 
-## 📈 `CONTRIBUTION GRAPH`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahalfaruk1&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
+| Area | Focus |
 
 ## 🎯 `2026 OBJECTIVES`
 
