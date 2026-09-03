@@ -112,7 +112,7 @@
 └─────────────────────────────────────────────┘
 ```
 
-Currently learning:
+## 📚 `CURRENTLY LEARNING`
 
 * 🔐 Web application security
 * 🌐 Client-side & server-side concepts
