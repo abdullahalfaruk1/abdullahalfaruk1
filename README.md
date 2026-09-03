@@ -142,7 +142,6 @@ Currently learning:
 
 ## 🚀 `CURRENT MISSION`
 
-```python
 class Faruk:
 
     def __init__(self):
@@ -152,12 +151,12 @@ class Faruk:
             "Software Development",
             "Cybersecurity",
             "Web Development",
-            "Algorithms"
+            "Algorithms",
+            "CTF & Security Labs"
         ]
 
     def mission(self):
         return "Learn → Build → Improve → Secure"
-```
 
 ---
 
