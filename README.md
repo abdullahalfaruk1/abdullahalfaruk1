@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ ABDULLAH AL FARUK
+# ⚡ ABDULLAH AL FARUK ⚡
 
 ### `SOFTWARE ENGINEERING STUDENT` • `PYTHON DEVELOPER` • `CYBERSECURITY ENTHUSIAST`
 
@@ -146,13 +146,6 @@ class Faruk:
 
 ---
 
-## 📊 `GITHUB ANALYTICS`
-
-<p align="center"> <a href="https://github.com/abdullahalfaruk1"> <img src="https://github-readme-stats.vercel.app/api?username=abdullahalfaruk1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" /> </a> </p> <p align="center"> <a href="https://github.com/abdullahalfaruk1"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalfaruk1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" /> </a> </p>
-
----
-
-| Area | Focus |
 
 ## 🎯 `2026 OBJECTIVES`
 
@@ -218,7 +211,7 @@ class Faruk:
 ╚══════════════════════════════════════════╝
 ```
 
-### ⚡ `Keep Building. Keep Learning.`
+###  `Keep Building. Keep Learning.`
 
 </div>
 
