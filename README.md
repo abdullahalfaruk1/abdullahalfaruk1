@@ -73,6 +73,7 @@
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 <img src="https://img.shields.io/badge/Acunetix-0066FF?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/PortSwigger-FF6B35?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Havij-0066FF?style=for-the-badge&logoColor=white" />
 
 </div>
 
@@ -86,6 +87,9 @@
 ![Encoding](https://img.shields.io/badge/Encoding%20%2F%20Decoding-00897B?style=for-the-badge)
 ![Hexadecimal](https://img.shields.io/badge/Hexadecimal-FF8C00?style=for-the-badge)
 ![HTTP Status Codes](https://img.shields.io/badge/HTTP%20Status%20Codes-FF4500?style=for-the-badge)
+![IP Analysis](https://img.shields.io/badge/IP%20Analysis-00AEEF?style=for-the-badge)
+![Grabify](https://img.shields.io/badge/Grabify-1E90FF?style=for-the-badge)
+![Wayback Machine](https://img.shields.io/badge/Wayback%20Machine-4285F4?style=for-the-badge)
 
 </div>
 
