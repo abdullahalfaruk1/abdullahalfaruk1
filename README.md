@@ -24,10 +24,13 @@
 │ User       : Abdullah Al Faruk                       │
 │ Username   : abdullahalfaruk1                        │
 │ Role       : Software Engineering Student            │
-│ Focus      : Development + Cybersecurity              │
-│ Language   : Python,Java,Js,CSS,Html                                   │
-│ Environment: Linux / Windows                          │
-│ Status     : Learning & Building                      │
+│ Focus      : Development + Cybersecurity &           |
+|              Ethical Hacking                         │
+│ Language   : Python,Java,Js,CSS,Html,C               |               
+│ Environment: Linux / Windows                         │
+│ Status     : Learning & Building                     |
+│ Security   : Burp Suite + Acunetix + PortSwigger     │     
+│ Labs       : PortSwigger Web Security Academy        │             
 └──────────────────────────────────────────────────────┘
 ```
 
@@ -69,19 +72,44 @@
 
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 <img src="https://img.shields.io/badge/Acunetix-0066FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/PortSwigger-FF6B35?style=for-the-badge&logoColor=white" />
 
 </div>
----
+
+### 🧩 CTF & Security Knowledge
+
+<div align="center">
+
+![OSINT](https://img.shields.io/badge/OSINT-8A2BE2?style=for-the-badge)
+![Forensics](https://img.shields.io/badge/Digital%20Forensics-4B0082?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/Cryptography-0066CC?style=for-the-badge)
+![Encoding](https://img.shields.io/badge/Encoding%20%2F%20Decoding-00897B?style=for-the-badge)
+![Hexadecimal](https://img.shields.io/badge/Hexadecimal-FF8C00?style=for-the-badge)
+![HTTP Status Codes](https://img.shields.io/badge/HTTP%20Status%20Codes-FF4500?style=for-the-badge)
+
+</div>
+
 
 ## 🛡️ `CYBERSECURITY`
 
 ```text
-[■■■■■■■■■■] Web Security
-[■■■■■■■■░░] OWASP Concepts
-[■■■■■■■░░░] CTF / Security Labs
-[■■■■■■■░░░] Burp Suite
-[■■■■■■░░░░] Network Fundamentals
-```
+┌─[ SECURITY SKILLS ]─────────────────────────┐
+│                                             │
+│ [■■■■■■■■■■] Web Security                   │
+│ [■■■■■■■■■░] OSINT                          │
+│ [■■■■■■■■░░] Digital Forensics              │
+│ [■■■■■■■■░░] Cryptography                   │
+│ [■■■■■■■■░░] Encoding / Decoding            │
+│ [■■■■■■■■░░] Hexadecimal                    │
+│ [■■■■■■■■░░] HTTP Status Codes              │
+│ [■■■■■■■■░░] OWASP Concepts                 │
+│ [■■■■■■■■░░] CTF / Security Labs            │
+│ [■■■■■■■■░░] Burp Suite                     │
+│ [■■■■■■■░░░] Acunetix                       │
+│ [■■■■■■■░░░] PortSwigger Web Security       │
+│ [■■■■■■░░░░] Network Fundamentals           │
+│                                             │
+└─────────────────────────────────────────────┘
 
 Currently learning:
 
@@ -93,6 +121,20 @@ Currently learning:
 * 🧠 Security fundamentals
 * 🔧 Burp Suite
 * 🔎 Acunetix
+* 🎓 PortSwigger Web Security Academy
+* 🌐 Network Fundamentals
+
+---
+
+### 🧩 CTF Knowledge
+- 🌐 Web Security
+- 🔍 OSINT
+- 🕵️ Digital Forensics
+- 🔐 Cryptography
+- 🔄 Encoding & Decoding
+- 🔢 Hexadecimal
+- 🌐 HTTP Status Codes
+- 🧪 Legal CTF & Security Labs
 
 
 
