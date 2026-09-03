@@ -204,23 +204,23 @@ Currently learning:
 ```text
 
              ┌───────────────────────────────┐
-             │     Understand the system.    │
+             │     Understand the system     │
              └───────────────┬───────────────┘
                              ↓
              ┌───────────────────────────────┐
-             │    Understand the weakness.   │
+             │    Understand the weakness    │
              └───────────────┬───────────────┘
                              ↓
              ┌───────────────────────────────┐
-             │       Test responsibly.       │
+             │       Test responsibly        │
              └───────────────┬───────────────┘
                              ↓
              ┌───────────────────────────────┐
-             │     Learn from the result.    │
+             │     Learn from the result     │
              └───────────────┬───────────────┘
                              ↓
              ┌───────────────────────────────┐
-             │        Build it better.       │
+             │        Build it better        │
              └───────────────────────────────┘
 
 ```
