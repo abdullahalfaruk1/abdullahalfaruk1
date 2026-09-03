@@ -228,6 +228,8 @@ class Faruk:
 * Learn from the result.
 * Build it better.
 
+```
+
 ## 🧠 `DEVELOPER MINDSET`
 
 ```text
