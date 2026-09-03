@@ -60,9 +60,17 @@
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,portswigger,burpsuite,acunetix" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
+### 🔧 Security Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Acunetix-0066FF?style=for-the-badge&logoColor=white" />
+
+</div>
 ---
 
 ## 🛡️ `CYBERSECURITY`
@@ -83,6 +91,10 @@ Currently learning:
 * 🛡️ OWASP security concepts
 * 🔎 Vulnerability analysis
 * 🧠 Security fundamentals
+* 🔧 Burp Suite
+* 🔎 Acunetix
+
+
 
 ---
 
