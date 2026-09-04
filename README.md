@@ -90,7 +90,7 @@
 ![IP Analysis](https://img.shields.io/badge/IP%20Analysis-00AEEF?style=for-the-badge)
 ![Grabify](https://img.shields.io/badge/Grabify-1E90FF?style=for-the-badge)
 ![Wayback Machine](https://img.shields.io/badge/Wayback%20Machine-4285F4?style=for-the-badge)
-
+![VAPT](https://img.shields.io/badge/VAPT-Fundamentals-DC143C?style=for-the-badge)
 </div>
 
 
@@ -112,7 +112,7 @@
 │ [■■■■■■■░░░] Acunetix                       │
 │ [■■■■■■■░░░] PortSwigger Web Security       │
 │ [■■■■■■░░░░] Network Fundamentals           │
-│                                             │
+│ [■■■■░░░░░░] VAPT Fundamentals              │
 └─────────────────────────────────────────────┘
 ```
 
