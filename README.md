@@ -48,6 +48,14 @@
 <img src="https://skillicons.dev/icons?i=python,c,java,js" />
 </p>
 
+```html
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java,js" />
+  <img src="https://img.shields.io/badge/Batch%20Scripting-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+</p>
+```
+
+
 ### 🌐 Web Development
 
 <p>
