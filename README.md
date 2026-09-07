@@ -49,13 +49,6 @@
 </p>
 
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,java,js" />
-  <img src="https://img.shields.io/badge/Batch%20Scripting-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-</p>
-
-
-
 ### 🌐 Web Development
 
 <p>
@@ -99,6 +92,7 @@
 ![Grabify](https://img.shields.io/badge/Grabify-1E90FF?style=for-the-badge)
 ![Wayback Machine](https://img.shields.io/badge/Wayback%20Machine-4285F4?style=for-the-badge)
 ![VAPT](https://img.shields.io/badge/VAPT-Fundamentals-DC143C?style=for-the-badge)
+<img src="https://img.shields.io/badge/Batch%20Scripting-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 </div>
 
 
