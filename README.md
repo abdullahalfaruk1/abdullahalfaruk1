@@ -64,7 +64,7 @@
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,kali" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,kali" />
 </p>
 
 ### 🔧 Security Tools
