@@ -26,7 +26,7 @@
 │ Role        : Software Engineering Student            │
 │ Focus       : Development + Cybersecurity &           |
 |               Ethical Hacking                         │
-│ Language    : Python,Java,Js,CSS,Html,C               |               
+│ Language    : Python,Java,Js,CSS,Html,C,Go            |               
 │ Environment : Linux / Windows                         │
 │ Status      : Learning & Building                     |
 │ Security    : Burp Suite + Acunetix + PortSwigger     │     
