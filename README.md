@@ -52,7 +52,7 @@
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,nodejs" />
 </p>
 
 ### 🗄️ Database
