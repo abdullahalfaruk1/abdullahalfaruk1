@@ -45,7 +45,7 @@
 ### 💻 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,nodejs" />
+  <img src="https://skillicons.dev/icons?i=c,java,go,python" />
 </p>
 
 
