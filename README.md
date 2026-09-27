@@ -77,7 +77,6 @@
 <img src="https://img.shields.io/badge/Acunetix-0066FF?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/PortSwigger-FF6B35?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Havij-0066FF?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
 
