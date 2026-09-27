@@ -64,7 +64,7 @@
 ### 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,kali,xampp" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,kali" />
 </p>
 
 ### 🔧 Security Tools
@@ -75,6 +75,7 @@
 <img src="https://img.shields.io/badge/Acunetix-0066FF?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/PortSwigger-FF6B35?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Havij-0066FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
 
 </div>
 
