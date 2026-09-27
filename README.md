@@ -66,6 +66,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,kali" />
   <img src="https://cdn.simpleicons.org/codeblocks" width="45" height="45">
+  <img src="https://cdn.simpleicons.org/xampp" width="45" height="45">
 </p>
 
 ### 🔧 Security Tools
