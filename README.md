@@ -155,7 +155,7 @@
 | -----------   | -----------------------------  |
 | 🐍 Python	    |  Programming & Problem Solving |
 | 🧠 DSA	      | Algorithms & Data Structures   |
-| 🌐 Web	      | HTML, CSS & JavaScript         | 
+| 🌐 Web	      | HTML, CSS, JavaScript        | 
 | 🗄️ Database	  | SQL, MongoDB & DBMS            |
 | 🛡️ Security	  | Web Security Fundamentals      |
 | ☕ Java	      | OOP & Software Development     |
